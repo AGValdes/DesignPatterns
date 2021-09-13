@@ -11,11 +11,11 @@ namespace CommandPattern.Classes
   {
     private OrderCommand _orderCommand;
     private MenuItem _menuItem;
-    private FastFoodOrder _order;
+    private FoodOrder _order;
 
     public Customer()
     {
-      _order = new FastFoodOrder();
+      _order = new FoodOrder();
     }
 
     public void SetCommand(int commandOption)
