@@ -4,7 +4,7 @@ A suite of console app projects showcasing the application of various design pat
 
 ## Table of Contents
 
-- [The Command Pattern}(../CommandPattern/README.md)
+- [The Command Pattern](../CommandPattern/README.md)
 
 ### Resources
 These projects were built based on the tutorials by Matthew Jones posted at:
